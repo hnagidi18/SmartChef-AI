@@ -1,0 +1,10 @@
+{
+  "name": "SmartChef AI",
+  "description": "AI-powered Recipe Preparation Agent using IBM Granite Models",
+  "technology": [
+    "Python",
+    "Streamlit",
+    "IBM watsonx.ai",
+    "IBM Granite"
+  ]
+}
