@@ -59,13 +59,6 @@ URL=https://us-south.ml.cloud.ibm.com
 ```bash id="jlwm8p"
 streamlit run app.py
 ```
-Sample Input
-rice, onion, tomato, egg
-
-Diet Preference:
-
-Non-Veg
-
 # Output
 The system generates:
 * Recipe Name
