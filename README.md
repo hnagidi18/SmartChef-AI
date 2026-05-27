@@ -61,6 +61,9 @@ streamlit run app.py
 ```
 Sample Input
 rice, onion, tomato, egg
+
+Diet Preference:
+
 Non-Veg
 
 # Output
